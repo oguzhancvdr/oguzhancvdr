@@ -23,6 +23,6 @@ Knowledge is power and it should spread across the world! 💪
 <a href="mailto:oguzhancavdar06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:oguzhancavdar06@gmail.com">
 </a>
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="#">
-</a>
+</a> -->
