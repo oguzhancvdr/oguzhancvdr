@@ -1,4 +1,12 @@
 ## Hi there 👋
+<br />
+I’m a punctual, team player and a problem solver.
+<br />
+My passion is fullstack development,
+<br />
+so I always keep myself updated and constantly learning.
+<br />
+Focused on improving web application performance and user experience.
 
 <img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 
