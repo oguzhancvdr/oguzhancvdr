@@ -14,7 +14,7 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 <br/>
 
 - 🔭 I’m currently working on front-end development 
-- 🌱 I’m currently learning Node.js | MongoDB | Django
+- 🌱 I’m currently learning Node.js | MongoDB | Django | PostgreSQL
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 
