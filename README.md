@@ -24,9 +24,9 @@ Knowledge is power and it should spread across the world! 💪
 <a href="https://www.linkedin.com/in/oguzhan-cavdar/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/oguzhan-cavdar/">
 </a>
-<a href="https://www.instagram.com/ogzhncvdr/" target="_blank">
+<!-- <a href="https://www.instagram.com/ogzhncvdr/" target="_blank">
     <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="https://www.instagram.com/ogzhncvdr/">
-</a>
+</a> -->
 <a href="mailto:oguzhancavdar06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:oguzhancavdar06@gmail.com">
 </a>
