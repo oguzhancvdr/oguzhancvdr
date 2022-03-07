@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 🖖
 I’m a punctual, team player and a problem solver.
 <br />
 My passion is fullstack development,
