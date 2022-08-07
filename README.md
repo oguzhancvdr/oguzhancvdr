@@ -1,6 +1,6 @@
 ## Hi 🖖
-<!-- <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif?cid=ecf05e47e0ca55fb7926904229fa065fefd89f7c50e946d2&rid=giphy.gif&ct=g" align="right" width="525"  height="325> -->
-<img src="https://github.com/ezranbayantemur/ezranbayantemur/raw/master/animation_500_kd7ngokt.gif" align="right">
+<!-- <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif?cid=ecf05e47e0ca55fb7926904229fa065fefd89f7c50e946d2&rid=giphy.gif&ct=g" align="right" width="525"  height="325"> -->
+<img src="https://github.com/ezranbayantemur/ezranbayantemur/raw/master/animation_500_kd7ngokt.gif" align="right" height="325">
 I’m a punctual, team player and a problem solver.
 <br />
 My passion is fullstack development,
