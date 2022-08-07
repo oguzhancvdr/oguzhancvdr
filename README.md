@@ -13,8 +13,8 @@ Focused on improving web and mobile application performance and user experience.
 I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
 <br/>
 
-- 🔭 I’m currently working on front-end development 
-- 🌱 I’m currently learning Node.js | MongoDB | Django | PostgreSQL
+- 🔭 I’m currently working on front-end development
+- 🌱 I’m currently learning Salesforce
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 
