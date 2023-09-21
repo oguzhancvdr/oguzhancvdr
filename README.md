@@ -10,11 +10,11 @@ so I always keep myself updated and constantly learning.
 Focused on improving web and mobile application performance and user experience.
 
 ### What I'm using? 🛠  
-I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
+I prefer React, LWC & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
 <br/>
 
 - 🔭 I’m currently working on Salesforce B2B Commerce Cloud on Lightning Experience
-- 🌱 I’m currently learning Salesforce
+- 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 
