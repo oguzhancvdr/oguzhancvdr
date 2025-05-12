@@ -7,10 +7,10 @@ My passion is fullstack development,
 <br />
 so I always keep myself updated and constantly learning.
 <br />
-Focused on improving web and mobile application performance and user experience.
+Focused on improving web and mobile application performance, user experience and SEO.
 
 ### What I'm using? 🛠  
-I prefer React, LWC & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
+I prefer React, LWC & React Native for web/mobile front-end, Node.js technologies for back-end development.
 <br/>
 
 - 🔭 I’m currently working on Salesforce B2B Commerce Cloud on Lightning Experience
