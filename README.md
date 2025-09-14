@@ -13,8 +13,8 @@ Focused on improving web and mobile application performance, user experience and
 I prefer React, LWC & React Native for web/mobile front-end, Node.js technologies for back-end development.
 <br/>
 
-- 🔭 I’m currently working on Salesforce B2B Commerce Cloud on Lightning Experience
-- 🌱 I’m currently learning Nodejs
+- 🔭 I’m currently working on React - Typescript
+- 🌱 I’m currently learning AI and nodejs
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 
